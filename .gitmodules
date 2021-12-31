@@ -1,3 +1,6 @@
 [submodule "livro-receitas"]
 	path = livro-receitas
 	url = https://github.com/LuizFernandoUFPE/livro-receitas.git
+[submodule "visual-studio"]
+	path = visual-studio
+	url = git@github.com:LuizFernandoUFPE/visual-studio.git
