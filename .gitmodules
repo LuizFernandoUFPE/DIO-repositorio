@@ -4,3 +4,6 @@
 [submodule "visual-studio"]
 	path = visual-studio
 	url = git@github.com:LuizFernandoUFPE/visual-studio.git
+[submodule "intro-CSharp-e-.NET"]
+	path = intro-CSharp-e-.NET
+	url = git@github.com:LuizFernandoUFPE/intro-CSharp-e-.NET.git
