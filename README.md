@@ -4,5 +4,5 @@ Desafio de Projeto da Digital Innovation One sobre GitGitHub para criar um repos
 ## Links Úteis 
 
 [Sintaxe Básica para Markdown](httpsmarkdown.net.brsintaxe-basica)
-[O que é e como funciona a Estrutura de Dados Pilha] (https://www.treinaweb.com.br/blog/o-que-e-e-como-funciona-a-estrutura-de-dados-pilha)
+[O que é e como funciona a Estrutura de Dados Pilha](https://www.treinaweb.com.br/blog/o-que-e-e-como-funciona-a-estrutura-de-dados-pilha)
 
