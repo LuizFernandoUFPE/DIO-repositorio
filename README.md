@@ -1,5 +1,5 @@
 # Repositório do Desafio de Projeto sobre GitGithub da DIO
-Desafio de Projeto da Digital Innovation One sobre GitGitHub para criar um repositório e alimentar com projetos durante o treinamento.
+Desafio de Projeto da Digital Innovation One sobre Git/GitHub para criar um repositório e alimentar com projetos durante o treinamento.
 
 ## Links Úteis 
 
