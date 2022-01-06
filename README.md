@@ -17,6 +17,8 @@ Desafio de Projeto da Digital Innovation One sobre Git/GitHub para criar um repo
 
 [Matrizes em C#](https://docs.microsoft.com/pt-br/dotnet/csharp/programming-guide/arrays/)
 
+[Artigos do Elemar Júnior](https://eximia.co/category/fundamentos/)
+
 ### Links de Download 
 
 [Git](https://git-scm.com/downloads)
