@@ -7,3 +7,6 @@
 [submodule "intro-CSharp-e-.NET"]
 	path = intro-CSharp-e-.NET
 	url = git@github.com:LuizFernandoUFPE/intro-CSharp-e-.NET.git
+[submodule "primeiros-passos-dotnet"]
+	path = primeiros-passos-dotnet
+	url = https://github.com/LuizFernandoUFPE/primeiros-passos-dotnet.git
