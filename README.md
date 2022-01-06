@@ -15,6 +15,8 @@ Desafio de Projeto da Digital Innovation One sobre Git/GitHub para criar um repo
 
 [Como criar uma aplicação console no Visual Studio Code](https://blog.tiagopariz.com/visual-studio-code-como-criar-uma-aplicacao-console-em-c/)
 
+[Matrizes em C#](https://docs.microsoft.com/pt-br/dotnet/csharp/programming-guide/arrays/)
+
 ### Links de Download 
 
 [Git](https://git-scm.com/downloads)
