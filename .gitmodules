@@ -10,3 +10,6 @@
 [submodule "primeiros-passos-dotnet"]
 	path = primeiros-passos-dotnet
 	url = https://github.com/LuizFernandoUFPE/primeiros-passos-dotnet.git
+[submodule "progamacao-orientada-a-objeto"]
+	path = progamacao-orientada-a-objeto
+	url = git@github.com:LuizFernandoUFPE/progamacao-orientada-a-objeto.git
