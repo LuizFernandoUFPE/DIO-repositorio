@@ -19,6 +19,8 @@ Desafio de Projeto da Digital Innovation One sobre Git/GitHub para criar um repo
 
 [Artigos do Elemar Júnior](https://eximia.co/category/fundamentos/)
 
+[Object.System em CSharp](https://docs.microsoft.com/pt-br/dotnet/api/system.object?view=net-6.0)
+
 ### Links de Download 
 
 [Git](https://git-scm.com/downloads)
