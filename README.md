@@ -23,6 +23,8 @@ Desafio de Projeto da Digital Innovation One sobre Git/GitHub para criar um repo
 
 [Como consertar Permission denied (public key).fatal: Could not read from remote repository](https://jhooq.com/github-permission-denied-publickey/)
 
+[visualizar estrutura de dados e algoritmos com animação](https://visualgo.net/en)
+
 ### Links de Download 
 
 [Git](https://git-scm.com/downloads)
