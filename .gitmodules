@@ -13,3 +13,6 @@
 [submodule "progamacao-orientada-a-objeto"]
 	path = progamacao-orientada-a-objeto
 	url = git@github.com:LuizFernandoUFPE/progamacao-orientada-a-objeto.git
+[submodule "criando-o-ambiente-de-desenvolvimento"]
+	path = criando-o-ambiente-de-desenvolvimento
+	url = git@github.com:LuizFernandoUFPE/criando-o-ambiente-de-desenvolvimento.git
