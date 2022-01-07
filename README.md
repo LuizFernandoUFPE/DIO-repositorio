@@ -21,6 +21,8 @@ Desafio de Projeto da Digital Innovation One sobre Git/GitHub para criar um repo
 
 [Object.System em CSharp](https://docs.microsoft.com/pt-br/dotnet/api/system.object?view=net-6.0)
 
+[Como consertar Permission denied (public key).fatal: Could not read from remote repository](https://jhooq.com/github-permission-denied-publickey/)
+
 ### Links de Download 
 
 [Git](https://git-scm.com/downloads)
