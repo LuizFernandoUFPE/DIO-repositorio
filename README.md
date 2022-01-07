@@ -25,6 +25,8 @@ Desafio de Projeto da Digital Innovation One sobre Git/GitHub para criar um repo
 
 [visualizar estrutura de dados e algoritmos com animação](https://visualgo.net/en)
 
+[Desenvolvimento Ágil](https://fia.com.br/blog/desenvolvimento-agil/)
+
 ### Links de Download 
 
 [Git](https://git-scm.com/downloads)
