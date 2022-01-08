@@ -16,3 +16,6 @@
 [submodule "criando-o-ambiente-de-desenvolvimento"]
 	path = criando-o-ambiente-de-desenvolvimento
 	url = git@github.com:LuizFernandoUFPE/criando-o-ambiente-de-desenvolvimento.git
+[submodule "microsservicos-com-.NET"]
+	path = microsservicos-com-.NET
+	url = git@github.com:LuizFernandoUFPE/microsservicos-com-.NET.git
