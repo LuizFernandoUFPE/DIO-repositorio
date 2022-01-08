@@ -27,6 +27,8 @@ Desafio de Projeto da Digital Innovation One sobre Git/GitHub para criar um repo
 
 [Desenvolvimento Ágil](https://fia.com.br/blog/desenvolvimento-agil/)
 
+[Cargas de trabalho no .NET](https://docs.microsoft.com/pt-br/visualstudio/install/modify-visual-studio?view=vs-2022)
+
 ### Links de Download 
 
 [Git](https://git-scm.com/downloads)
