@@ -29,6 +29,8 @@ Desafio de Projeto da Digital Innovation One sobre Git/GitHub para criar um repo
 
 [Cargas de trabalho no .NET](https://docs.microsoft.com/pt-br/visualstudio/install/modify-visual-studio?view=vs-2022)
 
+[Environment.NewLine](Environment.NewLine https://docs.microsoft.com/en-us/dotnet/api/system.environment.newline?view=netcore-3.1)
+
 ### Links de Download 
 
 [Git](https://git-scm.com/downloads)
