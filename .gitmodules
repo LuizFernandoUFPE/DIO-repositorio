@@ -19,3 +19,6 @@
 [submodule "microsservicos-com-.NET"]
 	path = microsservicos-com-.NET
 	url = git@github.com:LuizFernandoUFPE/microsservicos-com-.NET.git
+[submodule "desafio-programando-em-CSharp"]
+	path = desafio-programando-em-CSharp
+	url = git@github.com:LuizFernandoUFPE/desafio-programando-em-CSharp.git
