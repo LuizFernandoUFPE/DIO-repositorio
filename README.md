@@ -44,3 +44,5 @@ Desafio de Projeto da Digital Innovation One sobre Git/GitHub para criar um repo
 
 [Visual Studio Code](https://code.visualstudio.com/download)
 
+[Banco de Dados SQL](https://azure.microsoft.com/pt-br/free/sql-on-azure/)
+
